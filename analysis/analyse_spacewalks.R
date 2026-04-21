@@ -126,3 +126,14 @@ print("R figures generated.")
 print(p1)
 print(p2)
 print(p3)
+
+install.packages("usethis")
+usethis::use_github()
+
+
+
+
+
+
+
+
